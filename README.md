@@ -34,9 +34,9 @@ This project makes use of neural networks to predict the aerodynamic coefficient
 
 **Output:**
 
-Drag coefficient(cd) 
+>Drag coefficient(cd) 
 
-Lift coefficient(cl)
+>Lift coefficient(cl)
 
 
 
