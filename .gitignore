@@ -7,3 +7,6 @@ __pycache__/
 
 # Downloaded UIUC airfoil database
 data/raw/airfoils/
+
+#Ignoring the temporary polar test file
+/data/raw/test_polar.txt
