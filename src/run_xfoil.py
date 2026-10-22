@@ -10,7 +10,7 @@ AIRFOIL_FILE = (
     / "raw"
     / "airfoils"
     / "coord_seligFmt"
-    / "2032c.dat"
+    / "ag03.dat"
 )
 xfoil_dir = XFOIL_EXECUTABLE.parent
 local_airfoil = xfoil_dir / "test_airfoil.dat"
