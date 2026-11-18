@@ -1,0 +1,285 @@
+airfoil,alpha_deg,reason
+2032c.dat,2,"XFOIL did not confirm that the point was added. Console tail:
+     CD =  0.00959   =>   CDf =  0.00735    CDp =  0.00223
+
+ Side 1  free  transition at x/c =  0.3239   35
+ Side 2  free  transition at x/c =  0.0430   13
+
+ 497   rms: 0.6988E-02   max: -.1486E+00   C at   35  1
+       a =  2.000      CL =  0.9349
+      Cm = -0.1309     CD =  0.00959   =>   CDf =  0.00735    CDp =  0.00223
+
+ Side 1  free  transition at x/c =  0.3239   35
+ Side 2  free  transition at x/c =  0.0430   13
+
+ 498   rms: 0.6988E-02   max: -.1486E+00   C at   35  1
+       a =  2.000      CL =  0.9349
+      Cm = -0.1309     CD =  0.00959   =>   CDf =  0.00735    CDp =  0.00223
+
+ Side 1  free  transition at x/c =  0.3239   35
+ Side 2  free  transition at x/c =  0.0430   13
+
+ 499   rms: 0.6988E-02   max: -.1486E+00   C at   35  1
+       a =  2.000      CL =  0.9349
+      Cm = -0.1309     CD =  0.00959   =>   CDf =  0.00735    CDp =  0.00223
+
+ Side 1  free  transition at x/c =  0.3239   35
+ Side 2  free  transition at x/c =  0.0430   13
+
+ 500   rms: 0.6988E-02   max: -.1486E+00   C at   35  1
+       a =  2.000      CL =  0.9349
+      Cm = -0.1309     CD =  0.00959   =>   CDf =  0.00735    CDp =  0.00223
+ VISCAL:  Convergence failed
+
+.OPERva   c>  
+ XFOIL   c>  
+ XFOIL   c>  
+"
+a18.dat,1,"XFOIL did not confirm that the point was added. Console tail:
+     CL =  0.5215
+      Cm = -0.0698     CD =  0.00418   =>   CDf =  0.00401    CDp =  0.00017
+
+ MRCHDU: Convergence failed at  80  side 2    Res =  0.1116E-01
+ Side 1  free  transition at x/c =  0.6033   55
+ Side 2  free  transition at x/c =  0.9090   71
+
+ 498   rms: 0.3343E+01   max: 0.4492E+02   C at   71  2   RLX: 0.033
+       a =  1.000      CL =  0.5216
+      Cm = -0.0701     CD =  0.00427   =>   CDf =  0.00400    CDp =  0.00028
+
+ MRCHDU: Convergence failed at  80  side 2    Res =  0.7823E-02
+ Side 1  free  transition at x/c =  0.6035   55
+ Side 2  free  transition at x/c =  0.8669   68
+
+ 499   rms: 0.1508E+02   max: -.2626E+03   C at   68  2   RLX: 0.002
+       a =  1.000      CL =  0.5225
+      Cm = -0.0706     CD =  0.00430   =>   CDf =  0.00414    CDp =  0.00016
+
+ MRCHDU: Convergence failed at  80  side 2    Res =  0.6686E-02
+ Side 1  free  transition at x/c =  0.6035   55
+ Side 2  free  transition at x/c =  0.8783   69
+
+ 500   rms: 0.5347E+03   max: 0.9362E+04   C at   69  2   RLX: 0.000
+       a =  1.000      CL =  0.5218
+      Cm = -0.0704     CD =  0.00435   =>   CDf =  0.00410    CDp =  0.00025
+ VISCAL:  Convergence failed
+
+.OPERva   c>  
+ XFOIL   c>  
+ XFOIL   c>  
+"
+ag04.dat,0,"XFOIL did not confirm that the point was added. Console tail:
+e 1  free  transition at x/c =  0.7046   59
+ Side 2  free  transition at x/c =  0.8727   72
+
+ 497   rms: 0.3680E-02   max: -.7263E-01   C at   59  1
+       a =  0.000      CL =  0.1781
+      Cm = -0.0343     CD =  0.00423   =>   CDf =  0.00349    CDp =  0.00074
+
+ Side 1  free  transition at x/c =  0.7046   59
+ Side 2  free  transition at x/c =  0.8727   72
+
+ 498   rms: 0.3679E-02   max: -.7261E-01   C at   59  1
+       a =  0.000      CL =  0.1781
+      Cm = -0.0343     CD =  0.00423   =>   CDf =  0.00349    CDp =  0.00074
+
+ MRCHDU: Convergence failed at  72  side 2    Res =  0.8514E-05
+ Side 1  free  transition at x/c =  0.7046   59
+ Side 2  free  transition at x/c =  0.8727   72
+
+ 499   rms: 0.3680E-02   max: -.7262E-01   C at   59  1
+       a =  0.000      CL =  0.1781
+      Cm = -0.0343     CD =  0.00423   =>   CDf =  0.00349    CDp =  0.00074
+
+ Side 1  free  transition at x/c =  0.7046   59
+ Side 2  free  transition at x/c =  0.8727   72
+
+ 500   rms: 0.3679E-02   max: -.7261E-01   C at   59  1
+       a =  0.000      CL =  0.1781
+      Cm = -0.0343     CD =  0.00423   =>   CDf =  0.00349    CDp =  0.00074
+ VISCAL:  Convergence failed
+
+.OPERva   c>  
+ XFOIL   c>  
+ XFOIL   c>  
+"
+ag09.dat,4,"XFOIL did not confirm that the point was added. Console tail:
+     CD =  0.00717   =>   CDf =  0.00535    CDp =  0.00182
+
+ Side 1  free  transition at x/c =  0.1835   26
+ Side 2 forced transition at x/c =  1.0000   77
+
+ 497   rms: 0.4334E-02   max: -.1004E+00   C at   26  1
+       a =  4.000      CL =  0.6151
+      Cm = -0.0299     CD =  0.00717   =>   CDf =  0.00535    CDp =  0.00182
+
+ Side 1  free  transition at x/c =  0.1835   26
+ Side 2 forced transition at x/c =  1.0000   77
+
+ 498   rms: 0.4334E-02   max: -.1004E+00   C at   26  1
+       a =  4.000      CL =  0.6151
+      Cm = -0.0299     CD =  0.00717   =>   CDf =  0.00535    CDp =  0.00182
+
+ Side 1  free  transition at x/c =  0.1835   26
+ Side 2 forced transition at x/c =  1.0000   77
+
+ 499   rms: 0.4334E-02   max: -.1004E+00   C at   26  1
+       a =  4.000      CL =  0.6151
+      Cm = -0.0299     CD =  0.00717   =>   CDf =  0.00535    CDp =  0.00182
+
+ Side 1  free  transition at x/c =  0.1835   26
+ Side 2 forced transition at x/c =  1.0000   77
+
+ 500   rms: 0.4334E-02   max: -.1004E+00   C at   26  1
+       a =  4.000      CL =  0.6151
+      Cm = -0.0299     CD =  0.00717   =>   CDf =  0.00535    CDp =  0.00182
+ VISCAL:  Convergence failed
+
+.OPERva   c>  
+ XFOIL   c>  
+ XFOIL   c>  
+"
+ag11.dat,-1,"XFOIL did not confirm that the point was added. Console tail:
+     CD =  0.00763   =>   CDf =  0.00549    CDp =  0.00214
+
+ Side 1  free  transition at x/c =  0.8121   66
+ Side 2  free  transition at x/c =  0.0098   10
+
+ 497   rms: 0.3840E-01   max: 0.2360E+00   D at   11  2
+       a = -1.000      CL =  0.1126
+      Cm = -0.0352     CD =  0.00763   =>   CDf =  0.00549    CDp =  0.00214
+
+ Side 1  free  transition at x/c =  0.8121   66
+ Side 2  free  transition at x/c =  0.0098   10
+
+ 498   rms: 0.3840E-01   max: 0.2360E+00   D at   11  2
+       a = -1.000      CL =  0.1126
+      Cm = -0.0352     CD =  0.00763   =>   CDf =  0.00549    CDp =  0.00214
+
+ Side 1  free  transition at x/c =  0.8121   66
+ Side 2  free  transition at x/c =  0.0098   10
+
+ 499   rms: 0.3840E-01   max: 0.2360E+00   D at   11  2
+       a = -1.000      CL =  0.1126
+      Cm = -0.0352     CD =  0.00763   =>   CDf =  0.00549    CDp =  0.00214
+
+ Side 1  free  transition at x/c =  0.8121   66
+ Side 2  free  transition at x/c =  0.0098   10
+
+ 500   rms: 0.3840E-01   max: 0.2360E+00   D at   11  2
+       a = -1.000      CL =  0.1126
+      Cm = -0.0352     CD =  0.00763   =>   CDf =  0.00549    CDp =  0.00214
+ VISCAL:  Convergence failed
+
+.OPERva   c>  
+ XFOIL   c>  
+ XFOIL   c>  
+"
+ag18.dat,-1,"XFOIL did not confirm that the point was added. Console tail:
+     CD =  0.00516   =>   CDf =  0.00441    CDp =  0.00075
+
+ Side 1  free  transition at x/c =  0.8511   69
+ Side 2  free  transition at x/c =  0.3641   35
+
+ 497   rms: 0.3095E-02   max: -.6570E-01   C at   35  2
+       a = -1.000      CL =  0.1509
+      Cm = -0.0551     CD =  0.00516   =>   CDf =  0.00441    CDp =  0.00075
+
+ Side 1  free  transition at x/c =  0.8511   69
+ Side 2  free  transition at x/c =  0.3641   35
+
+ 498   rms: 0.3096E-02   max: -.6572E-01   C at   35  2
+       a = -1.000      CL =  0.1509
+      Cm = -0.0551     CD =  0.00516   =>   CDf =  0.00441    CDp =  0.00075
+
+ Side 1  free  transition at x/c =  0.8511   69
+ Side 2  free  transition at x/c =  0.3641   35
+
+ 499   rms: 0.3096E-02   max: -.6572E-01   C at   35  2
+       a = -1.000      CL =  0.1509
+      Cm = -0.0551     CD =  0.00516   =>   CDf =  0.00441    CDp =  0.00075
+
+ Side 1  free  transition at x/c =  0.8511   69
+ Side 2  free  transition at x/c =  0.3641   35
+
+ 500   rms: 0.3096E-02   max: -.6571E-01   C at   35  2
+       a = -1.000      CL =  0.1509
+      Cm = -0.0551     CD =  0.00516   =>   CDf =  0.00441    CDp =  0.00075
+ VISCAL:  Convergence failed
+
+.OPERva   c>  
+ XFOIL   c>  
+ XFOIL   c>  
+"
+ag44ct02r.dat,-2,"XFOIL did not confirm that the point was added. Console tail:
+     CD =  0.00701   =>   CDf =  0.00580    CDp =  0.00121
+
+ Side 1  free  transition at x/c =  0.7296   60
+ Side 2  free  transition at x/c =  0.1019   19
+
+ 497   rms: 0.3402E-02   max: -.8424E-01   C at   19  2
+       a = -2.000      CL = -0.0217
+      Cm = -0.0354     CD =  0.00701   =>   CDf =  0.00580    CDp =  0.00121
+
+ Side 1  free  transition at x/c =  0.7296   60
+ Side 2  free  transition at x/c =  0.1019   19
+
+ 498   rms: 0.3402E-02   max: -.8424E-01   C at   19  2
+       a = -2.000      CL = -0.0217
+      Cm = -0.0354     CD =  0.00701   =>   CDf =  0.00580    CDp =  0.00121
+
+ Side 1  free  transition at x/c =  0.7296   60
+ Side 2  free  transition at x/c =  0.1019   19
+
+ 499   rms: 0.3401E-02   max: -.8423E-01   C at   19  2
+       a = -2.000      CL = -0.0217
+      Cm = -0.0354     CD =  0.00701   =>   CDf =  0.00580    CDp =  0.00121
+
+ Side 1  free  transition at x/c =  0.7296   60
+ Side 2  free  transition at x/c =  0.1019   19
+
+ 500   rms: 0.3402E-02   max: -.8425E-01   C at   19  2
+       a = -2.000      CL = -0.0217
+      Cm = -0.0354     CD =  0.00701   =>   CDf =  0.00580    CDp =  0.00121
+ VISCAL:  Convergence failed
+
+.OPERva   c>  
+ XFOIL   c>  
+ XFOIL   c>  
+"
+ag44ct02r.dat,-1,"XFOIL did not confirm that the point was added. Console tail:
+     CD =  0.00578   =>   CDf =  0.00485    CDp =  0.00093
+
+ Side 1  free  transition at x/c =  0.6870   57
+ Side 2  free  transition at x/c =  0.4561   43
+
+ 497   rms: 0.2148E-02   max: -.4449E-01   C at   43  2
+       a = -1.000      CL =  0.0867
+      Cm = -0.0350     CD =  0.00578   =>   CDf =  0.00485    CDp =  0.00093
+
+ Side 1  free  transition at x/c =  0.6870   57
+ Side 2  free  transition at x/c =  0.4561   43
+
+ 498   rms: 0.2147E-02   max: -.4446E-01   C at   43  2
+       a = -1.000      CL =  0.0867
+      Cm = -0.0350     CD =  0.00578   =>   CDf =  0.00485    CDp =  0.00093
+
+ Side 1  free  transition at x/c =  0.6870   57
+ Side 2  free  transition at x/c =  0.4561   43
+
+ 499   rms: 0.2146E-02   max: -.4445E-01   C at   43  2
+       a = -1.000      CL =  0.0867
+      Cm = -0.0350     CD =  0.00578   =>   CDf =  0.00485    CDp =  0.00093
+
+ Side 1  free  transition at x/c =  0.6870   57
+ Side 2  free  transition at x/c =  0.4561   43
+
+ 500   rms: 0.2147E-02   max: -.4446E-01   C at   43  2
+       a = -1.000      CL =  0.0867
+      Cm = -0.0350     CD =  0.00578   =>   CDf =  0.00485    CDp =  0.00093
+ VISCAL:  Convergence failed
+
+.OPERva   c>  
+ XFOIL   c>  
+ XFOIL   c>  
+"
