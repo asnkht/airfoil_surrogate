@@ -1,0 +1,29 @@
+# Python 3.11
+#
+# Versions below are the ones this project was run with:
+#  - numpy, pandas, scikit-learn, matplotlib, joblib: the project's local .venv
+#  - tensorflow: the Google Colab runtime used for the notebooks (printed in notebook 02)
+
+# Data handling and geometry processing
+numpy==2.4.6
+pandas==3.0.6
+
+# Baseline model, scaling, PCA, data split, metrics
+scikit-learn==1.9.1
+joblib==1.6.0
+
+# Plots
+matplotlib==3.11.2
+
+# Neural network (Keras)
+tensorflow==2.21.0
+
+# Running the notebooks locally (not needed on Google Colab)
+jupyter
+
+# Only for rebuilding the presentation (presentation/build_deck.py)
+python-pptx==1.0.2
+
+# Not installable with pip:
+#  - XFOIL 6.99 (xfoil.exe), used by src/build_dataset.py to label the data
+#  - UIUC airfoil coordinate database (coord_seligFmt), see README

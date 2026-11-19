@@ -32,8 +32,8 @@ XFOIL_EXECUTABLE = (
 OUTPUT_DIR = PROJECT_ROOT / "data" / "processed"
 
 # Keep the original 30-airfoil dataset and failure log unchanged.
-OUTPUT_CSV = OUTPUT_DIR / "airfoil_dataset_300.csv"
-FAILURE_LOG = OUTPUT_DIR / "dataset_failures_300.csv"
+OUTPUT_CSV = OUTPUT_DIR / "airfoil_dataset_1000.csv"
+FAILURE_LOG = OUTPUT_DIR / "dataset_failures_1000.csv"
 
 XFOIL_DIR = XFOIL_EXECUTABLE.parent
 LOCAL_AIRFOIL = XFOIL_DIR / "test_airfoil.dat"
@@ -41,7 +41,7 @@ LOCAL_POLAR = XFOIL_DIR / "dataset_polar.txt"
 
 REYNOLDS_NUMBER = 1_000_000
 ANGLES_OF_ATTACK = np.arange(-2, 7, 1)
-MAX_AIRFOILS = 300
+MAX_AIRFOILS = 1000
 
 EXCLUDED_FILES = {
     "30p-30n.dat",
